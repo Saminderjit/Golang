@@ -1,8 +1,9 @@
-// module to return first repeating character in a string
-
 package main
 
 import "fmt"
+
+// module to return first repeating character in a string
+
 
 // declaring a dict || hash type
 var test map[string] int
